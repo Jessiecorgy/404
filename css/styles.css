@@ -1,0 +1,33 @@
+/* CSS by Jack Rugile - http://jackrugile.com */
+/* CSS reset by Richard Clark - html5doctor.com */
+#background {
+	position: absolute;
+	left: 300px;
+	top: 200px;
+}
+}
+}
+
+body {
+	background: #3b3837;
+}
+
+#top-image {
+   position: absolute;
+    left:830px;
+    top: 381px;
+    z-index: 1;
+   
+}
+
+.oops {
+	position: absolute;
+font-size: 4em;
+margin: 20px 0px 0px 680px;
+}
+
+p {
+	position: absolute;
+font-size: 1.3em;
+margin: 105px 0px 0px 561px;
+}
