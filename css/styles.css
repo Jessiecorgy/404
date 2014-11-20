@@ -4,12 +4,10 @@
 	position: absolute;
 	left: 300px;
 	top: 125px;
-}
-}
-}
 
+}
 body {
-	background: #3b3837;
+	background: #f5f5f5;
 }
 
 #top-image {
@@ -25,7 +23,9 @@ body {
 font-size: 3em;
 margin: 40px 0px 0px 705px;
 font-family: "Arial", "Helvetica", sans-serif;
-color: #333;
+color: #444;
+
+
 }
 
 p {
@@ -33,7 +33,7 @@ p {
 font-size: 1.2em;
 margin: 97px 0px 0px 571px;
 font-family: "Arial", "Helvetica", sans-serif;
-color: #333;
+color: #444;
 }
 
 #go-home {
@@ -41,7 +41,7 @@ color: #333;
 font-size: 1em;
 margin: 120px 0px 0px 530px;
 font-family: "Arial", "Helvetica", sans-serif;
-color: #333;
+color: #444;
 z-index: 1;
 }
 
@@ -76,12 +76,10 @@ color: #eb6d20;
 
 .ui.input {
 	position: absolute;
-	margin-left: 600px;
+	margin-left: 530px;
 margin-top: 150px;
 z-index: 1;
 
-}
-
-.input {
-	width: 170px;
+} 
+	
 }
