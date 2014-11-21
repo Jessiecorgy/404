@@ -31,7 +31,7 @@ color: #444;
 p {
 	position: absolute;
 font-size: 1.1em;
-margin: 90px 0px 0px 580px;
+margin: 85px 0px 0px 580px;
 font-family: "Arial", "Helvetica", sans-serif;
 color: #444;
 }
@@ -39,7 +39,7 @@ color: #444;
 #go-home {
 	position: absolute;
 font-size: 1em;
-margin: 125px 0px 0px 530px;
+margin: 107px 0px 0px 530px;
 font-family: "Arial", "Helvetica", sans-serif;
 color: #666;
 z-index: 1;
@@ -85,7 +85,7 @@ z-index: 1;
 form {
 	position: absolute;
 	margin-left: 530px;
-	margin-top: 150px;
+	margin-top: 140px;
 	z-index: 1;
 }
 
