@@ -21,7 +21,7 @@ body {
 .oops {
 	position: absolute;
 font-size: 3em;
-margin: 40px 0px 0px 705px;
+margin: 32px 0px 0px 710px;
 font-family: "Arial", "Helvetica", sans-serif;
 color: #444;
 
@@ -30,8 +30,8 @@ color: #444;
 
 p {
 	position: absolute;
-font-size: 1.2em;
-margin: 97px 0px 0px 571px;
+font-size: 1.1em;
+margin: 90px 0px 0px 580px;
 font-family: "Arial", "Helvetica", sans-serif;
 color: #444;
 }
@@ -39,9 +39,9 @@ color: #444;
 #go-home {
 	position: absolute;
 font-size: 1em;
-margin: 120px 0px 0px 530px;
+margin: 125px 0px 0px 530px;
 font-family: "Arial", "Helvetica", sans-serif;
-color: #444;
+color: #666;
 z-index: 1;
 }
 
@@ -61,7 +61,7 @@ background: url('img/logo.png') no-repeat 0 0 transparent;
 
 a:link, a:active, a:visited {
 	text-decoration: none;
-	color: #333;
+	color: #666;
 
 }
 
@@ -85,7 +85,7 @@ z-index: 1;
 form {
 	position: absolute;
 	margin-left: 530px;
-	margin-top: 145px;
+	margin-top: 150px;
 	z-index: 1;
 }
 
